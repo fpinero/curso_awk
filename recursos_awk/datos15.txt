@@ -1,0 +1,15 @@
+Luisa;Alvarado;03-01-2006;Reclutamiento;385000
+Jorge;Perez;08-01-2009;Sistemas;180000
+Andres;Garcia;01-01-2019;Sistemas;185000
+Milena;Gonzalez;07-01-2015;Operaciones;250000
+Angelina;Pacioli;03-01-2012;Mercadeo;275000
+Alejandro;Guzman;04-01-2009;Administracion;395000
+John;Carpenter;07-15-2012;Sistemas;205000
+Daniela;Torres;02-01-2013;Reclutamiento;290000
+Marcela;Tovar;07-15-2012;Gerencia;505000
+Alfred;Cox;04-01-2012;Gerencia;485000
+Susana;Sanchez;12-01-2017;Mercadeo;285000
+Ezequiel;Fernandez;08-15-2019;Sistemas;255000
+Martin;Sarmiento;08-15-2016;Operaciones;250000
+Noelia;Bianchi;03-15-2019;Administracion;375000
+Carlos;Perez;07-15-2019;Sistemas;180000

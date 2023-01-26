@@ -1,0 +1,15 @@
+1   Luisa      Alvarado   2006   Reclutamiento   385000
+2   Jorge      Perez      2009   Sistemas        180000
+3   Andres     Garcia     2019   Sistemas        185000
+4   Milena     Gonzalez   2015   Operaciones     250000
+5   Angelina   Pacioli    2012   Mercadeo        275000
+6   Alejandro  Guzman     2009   Administracion  395000
+7   John       Carpenter  2012   Sistemas        205000
+8   Daniela    Torres     2013   Reclutamiento   290000
+9   Marcela    Tovar      2012   Gerencia        505000
+10  Alfred     Cox        2012   Gerencia        485000
+11  Susana     Sanchez    2017   Mercadeo        285000
+12  Ezequiel   Fernandez  2019   Sistemas        255000
+13  Martin     Sarmiento  2016   Operaciones     250000
+14  Noelia     Bianchi    2019   Administracion  375000
+15  Carlos     Perez      2019   Sistemas        180000
