@@ -1,0 +1,2 @@
+# la varieable interna de awk FIELDWIDTH indica que ancho maximo tiene los campos del fichero de entrada a procesar, de este modo no hay que indicar el separador de campos y ademas, en la salida tambien respeta estos anchos a la hora de imprimir el reporte, por lo que no hay que añadir el tabulador \t
+awk 'BEGIN {FIELDWIDTHS="4 11 11 13 16 6"} {print $2 $3 $6} END {print "-- FIN DEL REPORTE --"}' datos2.txt
