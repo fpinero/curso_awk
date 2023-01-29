@@ -1,0 +1,579 @@
+﻿1;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos de personal;10000;Retribuciones básicas;1269703.4;2022
+2;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos de personal;11001;Retribuciones complementarias;262659.15;2022
+3;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos de personal;12006;Trienios;6561.66;2022
+4;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos de personal;150;Productividad;15807.37;2022
+5;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos de personal;151;Gratificaciones;1000;2022
+6;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos de personal;16000;Seguridad Social;458531.64;2022
+7;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;15000;2022
+8;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;4000;2022
+9;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;2000;2022
+10;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;214;Elementos de transporte;2000;2022
+11;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;6000;2022
+12;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;1000;2022
+13;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22002;Material; informático no inventariable;1000;2022
+14;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;10;2022
+15;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22109;Suministros;5000;2022
+16;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;223;Transportes;5000;2022
+17;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22601;Atenciones protocolarias y representativas;30000;2022
+18;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;6000;2022
+19;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;22626;Gastos diversos colaboraciones con entidades y asociaciones; Alcaldia;20000;2022
+20;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;23000;De los miembros de los órganos de gobierno;12000;2022
+21;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;23002;De los miembros de los órganos de gobierno Concejalias;9000;2022
+22;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;23100;De los miembros de los órganos de gobierno;12000;2022
+23;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Gastos corrientes en bienes y servicios;23102;De los miembros de los órganos de gobierno Concejalias;9000;2022
+24;Presidencia y relaciones institucionales;10;Órganos de gobierno;912;Transferencias corrientes;489;Organos de gobierno Otras transferencias;110000;2022
+25;Coordinación administrativa y hacienda;20;Deuda Pública;11;Tasas; precios públicos y otros ingresos;31000;Intereses de préstamos a largo plazo;76500;2022
+26;Coordinación administrativa y hacienda;20;Deuda Pública;11;Tasas; precios públicos y otros ingresos;31001;Intereses de préstamos a corto plazo;50000;2022
+27;Coordinación administrativa y hacienda;20;Deuda Pública;11;Tasas; precios públicos y otros ingresos;311;Gastos de formalización; modificación y cancelación;10000;2022
+28;Coordinación administrativa y hacienda;20;Deuda Pública;11;Tasas; precios públicos y otros ingresos;352;Intereses de demora;50000;2022
+29;Coordinación administrativa y hacienda;20;Deuda Pública;11;Tasas; precios públicos y otros ingresos;359;Otros gastos financieros;60000;2022
+30;Coordinación administrativa y hacienda;20;Deuda Pública;11;Pasivos financieros;913;Amortización de préstamos a largo plazo de entes de fuera del sector público;4480000;2022
+31;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12000;Sueldos del Grupo A1;167877.63;2022
+32;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12001;Sueldos del Grupo A2;44984.52;2022
+33;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12003;Sueldos del Grupo C1;78641.22;2022
+34;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12004;Sueldos del Grupo C2;168229.18;2022
+35;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12005;Sueldos del Grupo E;126854.28;2022
+36;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12006;Trienios;101368.12;2022
+37;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12100;Complemento de destino;330471.4;2022
+38;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;12101;Complemento específico;684185.6;2022
+39;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;13000;Retribuciones básicas;176940.82;2022
+40;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;13002;Otras remuneraciones;165274.8;2022
+41;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;131;Laboral temporal;508204.66;2022
+42;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;150;Productividad;499131.69;2022
+43;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;151;Gratificaciones;25000;2022
+44;Coordinación administrativa y hacienda;20;Administración General;920;Gastos de personal;16000;Seguridad Social;718092.45;2022
+45;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;202;Arrendamientos de edificios y otras construcciones;200000;2022
+46;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;25000;2022
+47;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;15000;2022
+48;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;205;Arrendamientos de mobiliario y enseres;1000;2022
+49;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;209;Cánones;10000;2022
+50;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;18000;2022
+51;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;100000;2022
+52;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;213;Maquinaria; instalaciones técnicas y utillaje;110000;2022
+53;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;214;Elementos de transporte;20000;2022
+54;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;215;Mobiliario;2000;2022
+55;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;30000;2022
+56;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;20000;2022
+57;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22002;Material; informático no inventariable;4000;2022
+58;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;200000;2022
+59;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22104;Vestuario;15000;2022
+60;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22109;Suministros;15000;2022
+61;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22110;Productos de limpieza y aseo;30000;2022
+62;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22114;Suministros y servicios diversos situacion pandemia COVID-19;15000;2022
+63;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22115;Suministros equipos de proteccion epidemia COVID-19;10000;2022
+64;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22200;Servicios de Telecomunicaciones;209000;2022
+65;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22201;Postales;125000;2022
+66;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;223;Transportes;1000;2022
+67;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;224;Primas de seguros;230000;2022
+68;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22501;Tributos de las Comunidades Autónomas;7000;2022
+69;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;120000;2022
+70;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22603;Publicación en Diarios Oficiales;40000;2022
+71;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22604;Jurídicos; contenciosos;120000;2022
+72;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22606;Reuniones; conferencias y cursos;10000;2022
+73;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22613;Gastos diversos Administración General;60000;2022
+74;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22614;Indemnizaciones;20000;2022
+75;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;120000;2022
+76;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;23020;Del personal no directivo;10000;2022
+77;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;23120;Del personal no directivo;5000;2022
+78;Coordinación administrativa y hacienda;20;Administración General;920;Gastos corrientes en bienes y servicios;233;Otras indemnizaciones;15000;2022
+79;Coordinación administrativa y hacienda;20;Administración General;920;Transferencias corrientes;489;Otras transferencias;40000;2022
+80;Coordinación administrativa y hacienda;20;Administración General;920;Inversiones reales;62102;Terrenos y bienes naturales;10000;2022
+81;Coordinación administrativa y hacienda;20;Administración General;920;Inversiones reales;62103;Adquisición otras Construcciones;581795;2022
+82;Coordinación administrativa y hacienda;20;Administración General;920;Inversiones reales;62300;Maquinaria;25000;2022
+83;Coordinación administrativa y hacienda;20;Administración General;920;Inversiones reales;62303;Utiles y herramientas;25000;2022
+84;Coordinación administrativa y hacienda;20;Administración General;920;Inversiones reales;62400;Automóvil;120000;2022
+85;Coordinación administrativa y hacienda;20;Administración General;920;Inversiones reales;62501;Equipos de oficina;40000;2022
+86;Coordinación administrativa y hacienda;20;Administración General;920;Transferencias de capital;720;A la Administración General del Estado;10;2022
+87;Coordinación administrativa y hacienda;20;Administración General;920;Transferencias de capital;780;A familias e instituciones sin fines de lucro;25000;2022
+88;Coordinación administrativa y hacienda;20;Administración General;920;Activos financieros;83000;Pagas anticipadas y demás préstamos al personal;600000;2022
+89;Coordinación administrativa y hacienda;20;Administración General;920;Pasivos financieros;94100;Devolución de fianzas;400000;2022
+90;Coordinación administrativa y hacienda;20;Administración General;920;Pasivos financieros;94101;Devolución de fianzas;100000;2022
+91;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;12000;Sueldos del Grupo A1;16722.18;2022
+92;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;12003;Sueldos del Grupo C1;45034.64;2022
+93;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;12004;Sueldos del Grupo C2;93702;2022
+94;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;12006;Trienios;27216.3;2022
+95;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;12100;Complemento de destino;93837.38;2022
+96;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;12101;Complemento específico;180216.68;2022
+97;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;150;Productividad;87584.18;2022
+98;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;151;Gratificaciones;10000;2022
+99;Coordinación administrativa y hacienda;20;Gestión del Padrón Municipal de Habitantes;9231;Gastos de personal;16000;Seguridad Social;151319.11;2022
+100;Coordinación administrativa y hacienda;20;Imprevistos; situaciones transitorias y contingencias de ejecución;929;Fondo de Contingencia y Otros Imprevistos;500;Fondo de Contingencia . Art. 31 de la Ley Organica 2/2012; de Estabilidad Presupuestaria y Sostenibilidad Financiera;751000;2022
+101;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12000;Sueldos del Grupo A1;57253.93;2022
+102;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12001;Sueldos del Grupo A2;13415.76;2022
+103;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12003;Sueldos del Grupo C1;70115.72;2022
+104;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12004;Sueldos del Grupo C2;33651.55;2022
+105;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12006;Trienios;43031.81;2022
+106;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12100;Complemento de destino;91507.06;2022
+107;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;12101;Complemento específico;230315.37;2022
+108;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;150;Productividad;152041.23;2022
+109;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;151;Gratificaciones;4000;2022
+110;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos de personal;16000;Seguridad Social;166824.78;2022
+111;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;214;Elementos de transporte;5000;2022
+112;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;216;Equipos para procesos de información;125000;2022
+113;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;12000;2022
+114;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;15000;2022
+115;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;10;2022
+116;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;22632;Gastos diversos Politica económica y fiscal;15000;2022
+117;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;96000;2022
+118;Coordinación administrativa y hacienda;20;Política económica y fiscal;931;Gastos corrientes en bienes y servicios;22708;Servicios de recaudación a favor de la entidad;750000;2022
+119;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12000;Sueldos del Grupo A1;69366.08;2022
+120;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12001;Sueldos del Grupo A2;14994.84;2022
+121;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12003;Sueldos del Grupo C1;123845.26;2022
+122;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12004;Sueldos del Grupo C2;65591.4;2022
+123;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12006;Trienios;52838.59;2022
+124;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12100;Complemento de destino;163143.22;2022
+125;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;12101;Complemento específico;330376.76;2022
+126;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;150;Productividad;155361.4;2022
+127;Coordinación administrativa y hacienda;20;Gestión del sistema tributario;932;Gastos de personal;16000;Seguridad Social;261926.46;2022
+128;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;12000;Sueldos del Grupo A1;16722.18;2022
+129;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;12003;Sueldos del Grupo C1;11258.66;2022
+130;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;12004;Sueldos del Grupo C2;18740.4;2022
+131;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;12006;Trienios;10477.89;2022
+132;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;12100;Complemento de destino;29804.53;2022
+133;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;12101;Complemento específico;52415.16;2022
+134;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;150;Productividad;19940.83;2022
+135;Coordinación administrativa y hacienda;20;Gestión del patrimonio;933;Gastos de personal;16000;Seguridad Social;33996.15;2022
+136;Bienestar social; igualdad; juventud y empleo;30;Otras prestaciones económicas a favor de empleados;221;Gastos de personal;127;Contribuciones a planes y fondos de pensiones;80000;2022
+137;Bienestar social; igualdad; juventud y empleo;30;Otras prestaciones económicas a favor de empleados;221;Gastos de personal;16200;Formación y perfeccionamiento del personal;5000;2022
+138;Bienestar social; igualdad; juventud y empleo;30;Otras prestaciones económicas a favor de empleados;221;Gastos de personal;16205;Seguros;100000;2022
+139;Bienestar social; igualdad; juventud y empleo;30;Otras prestaciones económicas a favor de empleados;221;Gastos de personal;16209;Otros gastos sociales;35000;2022
+140;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12000;Sueldos del Grupo A1;16722.18;2022
+141;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12001;Sueldos del Grupo A2;119958.72;2022
+142;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12003;Sueldos del Grupo C1;22517.32;2022
+143;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12004;Sueldos del Grupo C2;9370.02;2022
+144;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12005;Sueldos del Grupo E;8576.26;2022
+145;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12006;Trienios;24499.6;2022
+146;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12100;Complemento de destino;92057;2022
+147;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;12101;Complemento específico;153327.44;2022
+148;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;150;Productividad;42530.44;2022
+149;Bienestar social; igualdad; juventud y empleo;30;Servicios Sociales y promoción social;2310;Gastos de personal;16000;Seguridad Social;132180.92;2022
+150;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;12000;Sueldos del Grupo A1;34683.04;2022
+151;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;12001;Sueldos del Grupo A2;74974.2;2022
+152;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;12006;Trienios;68838;2022
+153;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;12100;Complemento de destino;69380.64;2022
+154;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;12101;Complemento específico;103635.14;2022
+155;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;131;Laboral temporal;106967.53;2022
+156;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;150;Productividad;58148.12;2022
+157;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;151;Gratificaciones;5000;2022
+158;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos de personal;16000;Seguridad Social;139489.2;2022
+159;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+160;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;3000;2022
+161;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos corrientes en bienes y servicios;223;Transportes;10;2022
+162;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos corrientes en bienes y servicios;22636;Gastos diversos Acción Social;56500;2022
+163;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;10;2022
+164;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Gastos corrientes en bienes y servicios;22707;Funerarias;12000;2022
+165;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias corrientes;48000;Vivienda;20000;2022
+166;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias corrientes;48002;Ayudas periódicas prestaciones básicas;861500;2022
+167;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias corrientes;48003;Ayudas no periódicas prestaciones básicas;45000;2022
+168;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias corrientes;48008;Ayudas consecuencia crisis sanitaria COVID19;100000;2022
+169;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias corrientes;481;Premios; becas y pensiones de estudios e investigación;9500;2022
+170;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias corrientes;489;Atencion social primaria Otras transferencias;145000;2022
+171;Bienestar social; igualdad; juventud y empleo;30;Servicios Generales de Accion Social;2311;Transferencias de capital;780;A familias e instituciones sin fines de lucro;25000;2022
+172;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;12001;Sueldos del Grupo A2;14994.84;2022
+173;Bienestar social; igualdad; juventud y empleo;30;;2312;Gastos de personal;12003;Sueldos del Grupo C1;11258.66;2022
+174;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;12004;Sueldos del Grupo C2;9370.2;2022
+175;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;12006;Trienios;10365.41;2022
+176;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;12100;Complemento de destino;18564.28;2022
+177;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;12101;Complemento específico;29356.18;2022
+178;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;150;Productividad;9847.28;2022
+179;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;151;Gratificaciones;10647.89;2022
+180;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos de personal;16000;Seguridad Social;28189.28;2022
+181;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos corrientes en bienes y servicios;202;Arrendamientos de edificios y otras construcciones;25000;2022
+182;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;20000;2022
+183;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos corrientes en bienes y servicios;22637;Gastos diversos Promoción Social;43500;2022
+184;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;6500;2022
+185;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Transferencias corrientes;48004;Materia de drogas;62650;2022
+186;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Transferencias corrientes;48006;Pobreza energetica;30000;2022
+187;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orie 2312 ntacion social;2312;Transferencias corrientes;48007;Apoyo a la familia e infancia;10;2022
+188;Bienestar social; igualdad; juventud y empleo;30;Informacion; valoracion; diagnostico y orientación social;2312;Transferencias corrientes;489;Promoción social Otras transferencias;229950;2022
+189;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;12001;Sueldos del Grupo A2;29989.54;2022
+190;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;12004;Sueldos del Grupo C2;9349.2;2022
+191;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;12006;Trienios;7977.3;2022
+192;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;12100;Complemento de destino;20133.4;2022
+193;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;12101;Complemento específico;35707.14;2022
+194;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;150;Productividad;13691.92;2022
+195;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;151;Gratificaciones;5000;2022
+196;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos de personal;16000;Seguridad Social;31549.09;2022
+197;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;500000;2022
+198;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Gastos corrientes en bienes y servicios;22709;Servicio ayuda a domicilio personas dependientes;1346250;2022
+199;Bienestar social; igualdad; juventud y empleo;30;Ayuda a domicilio;2313;Transferencias corrientes;489;Otras transferencias;10;2022
+200;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12000;Sueldos del Grupo A1;28997.06;2022
+201;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12001;Sueldos del Grupo A2;74970.56;2022
+202;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12003;Sueldos del Grupo C1;34089.29;2022
+203;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12004;Sueldos del Grupo C2;1610.11;2022
+204;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12006;Trienios;16072.23;2022
+205;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12100;Complemento de destino;69378.52;2022
+206;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;12101;Complemento específico;103628.28;2022
+207;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;131;Laboral temporal;32280.62;2022
+208;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;150;Productividad;42881.02;2022
+209;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;151;Gratificaciones;3000;2022
+210;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos de personal;16000;Seguridad Social;205902.5;2022
+211;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;202;Arrendamientos de edificios y otras construcciones;15000;2022
+212;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+213;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;223;Transportes;1000;2022
+214;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;22638;Gastos diversos Area de Igualdad;60000;2022
+215;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;22666;Gastos diversos programas conciliacion de la vida laboral y la vida privada;20000;2022
+216;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;22668;Gastos diversos Prevencion y sensibilizacion violencia machista;10000;2022
+217;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;140000;2022
+218;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Transferencias corrientes;489;Area de Igualdad Otras transferencias;137000;2022
+219;Bienestar social; igualdad; juventud y empleo;30;Intervencion familiar e infancia;2314;Inversiones reales;62502;Mobiliario y equipos de oficina area de igualdad;2000;2022
+220;Bienestar social; igualdad; juventud y empleo;30;Promocion; animacion y participacion comunitaria;2315;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+221;Bienestar social; igualdad; juventud y empleo;30;Promocion; animacion y participacion comunitaria;2315;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;5000;2022
+222;Bienestar social; igualdad; juventud y empleo;30;Promocion; animacion y participacion comunitaria;2315;Gastos corrientes en bienes y servicios;22627;Gastos diversos area del mayor;93000;2022
+223;Bienestar social; igualdad; juventud y empleo;30;Promocion; animacion y participacion comunitaria;2315;Transferencias corrientes;489;Area del mayor Otras transferencias;18000;2022
+224;Bienestar social; igualdad; juventud y empleo;30;Diversidad;2316;Gastos corrientes en bienes y servicios;22633;Gastos diversos Concejalia Diversidad;20000;2022
+225;Bienestar social; igualdad; juventud y empleo;30;Diversidad;2316;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;20000;2022
+226;Bienestar social; igualdad; juventud y empleo;30;Diversidad;2316;Transferencias corrientes;489;Area de Diversidad Otras transferencias;37000;2022
+227;Bienestar social; igualdad; juventud y empleo;30;Diversidad;2316;Inversiones reales;62502;Diversidad. Mobiliario y equipos area de servicios sociales y promocion social;5700;2022
+228;Bienestar social; igualdad; juventud y empleo;30;Prevención e inclusión sectores sociales;2317;Gastos corrientes en bienes y servicios;22651;Gastos diversos Concejalia Gestion y Recuperacion Terremoto;1000;2022
+229;Bienestar social; igualdad; juventud y empleo;30;Prevención e inclusión sectores sociales;2317;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;1000;2022
+230;Bienestar social; igualdad; juventud y empleo;30;Prevención e inclusión sectores sociales;2317;Inversiones reales;63214;Proyecto y ejecucion obras rehabilitacion y montaje arcos Claustro Santo Domingo;40000;2022
+231;Bienestar social; igualdad; juventud y empleo;30;ONG's;2318;Gastos corrientes en bienes y servicios;22657;Gastos diversos Concejalia ONGs;5000;2022
+232;Bienestar social; igualdad; juventud y empleo;30;ONG's;2318;Transferencias corrientes;489;Area ONGs Otras transferencias;126700;2022
+233;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;12001;Sueldos del Grupo A2;29989.68;2022
+234;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;12003;Sueldos del Grupo C1;33775.98;2022
+235;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;12004;Sueldos del Grupo C2;9370.2;2022
+236;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;12006;Trienios;17575.74;2022
+237;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;12100;Complemento de destino;41164.34;2022
+238;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;12101;Complemento específico;65577.54;2022
+239;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;150;Productividad;27081.12;2022
+240;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;151;Gratificaciones;3000;2022
+241;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos de personal;16000;Seguridad Social;60624.32;2022
+242;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;202;Arrendamientos de edificios y otras construcciones;10;2022
+243;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;5000;2022
+244;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;1000;2022
+245;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;1000;2022
+246;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;22646;Gastos diversos Area de juventud;47000;2022
+247;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;10000;2022
+248;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Gastos corrientes en bienes y servicios;22711;Estudios tecnico-economicos Redaccion proyecto Espacio Joven;10000;2022
+249;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Transferencias corrientes;481;Premios; becas y pensiones de estudios e investigación;10;2022
+250;Bienestar social; igualdad; juventud y empleo;30;Alojamiento permanente o temporal;2319;Transferencias corrientes;489;Area de juventud Otras transferencias;49000;2022
+251;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;12000;Sueldos del Grupo A1;34683.04;2022
+252;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;12001;Sueldos del Grupo A2;14994.84;2022
+253;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;12004;Sueldos del Grupo C2;9370.2;2022
+254;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;12006;Trienios;8684.92;2022
+255;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;12100;Complemento de destino;29260;2022
+256;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;12101;Complemento específico;43880.48;2022
+257;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;150;Productividad;17713.21;2022
+258;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos de personal;16000;Seguridad Social;44404.72;2022
+259;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+260;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;15000;2022
+261;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;22114;Suministros y servicios diversos situacion pandemia COVID-19;20000;2022
+262;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;22115;Suministros equipos de proteccion epidemia COVID-19;5000;2022
+263;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;22619;Gastos diversos Concejalia Sanidad;20000;2022
+264;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;327000;2022
+265;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Gastos corrientes en bienes y servicios;22711;Estudios tecnico-economicos Estudio viabilidad nuevo hospital;18000;2022
+266;Bienestar social; igualdad; juventud y empleo;30;Protección de la salubridad pública;311;Transferencias corrientes;489;Sanidad Otras transferencias;5000;2022
+267;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;12001;Sueldos del Grupo A2;14398.46;2022
+268;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;12003;Sueldos del Grupo C1;11258.66;2022
+269;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;12006;Trienios;6748.3;2022
+270;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;12100;Complemento de destino;29853.2;2022
+271;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;12101;Complemento específico;43880.48;2022
+272;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;150;Productividad;6890.1;2022
+273;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;151;Gratificaciones;2000;2022
+274;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos de personal;16000;Seguridad Social;35219.4;2022
+275;Bienestar social; igualdad; juventud y empleo;30;Protección de consumidores y usuarios;493;Gastos corrientes en bienes y servicios;22611;Gastos diversos Concejalia de Consumo;5000;2022
+276;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12000;Sueldos del Grupo A1;173415.2;2022
+277;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12001;Sueldos del Grupo A2;74974.2;2022
+278;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12003;Sueldos del Grupo C1;112586.6;2022
+279;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12004;Sueldos del Grupo C2;121812.6;2022
+280;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12006;Trienios;115361.26;2022
+281;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12100;Complemento de destino;294954.45;2022
+282;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;12101;Complemento específico;562588.32;2022
+283;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;150;Productividad;232374.65;2022
+284;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;151;Gratificaciones;15000;2022
+285;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos de personal;16000;Seguridad Social;484099.17;2022
+286;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;1000;2022
+287;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;20000;2022
+288;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;12000;2022
+289;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;213;Maquinaria; instalaciones técnicas y utillaje;14000;2022
+290;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;214;Elementos de transporte;2000;2022
+291;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;12000;2022
+292;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;1000;2022
+293;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22102;Gas;10000;2022
+294;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;10;2022
+295;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;5000;2022
+296;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22654;Gastos diviersos Urbanismo;26000;2022
+297;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;50000;2022
+298;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;182400;2022
+299;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Inversiones reales;60012;Diversas expropiaciones;225000;2022
+300;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Inversiones reales;60903;Obras diversas en el municipio;140000;2022
+301;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Inversiones reales;60908;Honorarios proyectos;90000;2022
+302;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Inversiones reales;61001;Ordenes de ejecución Urbanismo;150000;2022
+303;Urbanismo; obras; servicios y medio ambiente;40;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Transferencias de capital;740;A entes públicos y sociedades mercantiles de la Entidad Local;125000;2022
+304;Urbanismo; obras; servicios y medio ambiente;40;Conservación y rehabilitación de la edificación;1522;Gastos corrientes en bienes y servicios;22630;Gastos diversos Vivienda;15000;2022
+305;Urbanismo; obras; servicios y medio ambiente;40;Conservación y rehabilitación de la edificación;1522;Transferencias corrientes;489;Vivienda Otras transferencias;2500;2022
+306;Urbanismo; obras; servicios y medio ambiente;40;Alcantarillado;160;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;723500;2022
+307;Urbanismo; obras; servicios y medio ambiente;40;Abastecimiento domiciliario de agua potable;161;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;175000;2022
+308;Urbanismo; obras; servicios y medio ambiente;40;Abastecimiento domiciliario de agua potable;161;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;105000;2022
+309;Urbanismo; obras; servicios y medio ambiente;40;Abastecimiento domiciliario de agua potable;161;Gastos corrientes en bienes y servicios;22101;Agua;900000;2022
+310;Urbanismo; obras; servicios y medio ambiente;40;Recogida de residuos;1621;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;3499652.43;2022
+311;Urbanismo; obras; servicios y medio ambiente;40;Tratamiento de residuos;1623;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;12099.11;2022
+312;Urbanismo; obras; servicios y medio ambiente;40;Limpieza viaria;163;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;3641128.83;2022
+313;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;12001;Sueldos del Grupo A2;14994.84;2022
+314;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;12003;Sueldos del Grupo C1;78291.5;2022
+315;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;12004;Sueldos del Grupo C2;46851;2022
+316;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;12006;Trienios;33029.22;2022
+317;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;12100;Complemento de destino;74996.53;2022
+318;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;12101;Complemento específico;126409.64;2022
+319;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;150;Productividad;79862.31;2022
+320;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;151;Gratificaciones;84955.26;2022
+321;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos de personal;16000;Seguridad Social;162123.95;2022
+322;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;140000;2022
+323;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+324;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;110000;2022
+325;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;213;Maquinaria; instalaciones técnicas y utillaje;45000;2022
+326;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;214;Elementos de transporte;10000;2022
+327;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;22100;Energía eléctrica;3300000;2022
+328;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;10;2022
+329;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;22104;Vestuario;3000;2022
+330;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Gastos corrientes en bienes y servicios;22608;Acometidas;enganches y derechos;5000;2022
+331;Urbanismo; obras; servicios y medio ambiente;40;Alumbrado público;165;Inversiones reales;61919;Mejora y ampliacion de alumbrado publico;100000;2022
+332;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;12001;Sueldos del Grupo A2;14994.84;2022
+333;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;12003;Sueldos del Grupo C1;22517.32;2022
+334;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;12004;Sueldos del Grupo C2;9895.2;2022
+335;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;12006;Trienios;15790.94;2022
+336;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;12100;Complemento de destino;25418.9;2022
+337;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;12101;Complemento específico;50664.34;2022
+338;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;150;Productividad;20940.7;2022
+339;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos de personal;16000;Seguridad Social;50918.96;2022
+340;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+341;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;60000;2022
+342;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos corrientes en bienes y servicios;214;Elementos de transporte;5000;2022
+343;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;10;2022
+344;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos corrientes en bienes y servicios;22104;Vestuario;2000;2022
+345;Urbanismo; obras; servicios y medio ambiente;40;Parques y jardines;171;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;1985000;2022
+346;Urbanismo; obras; servicios y medio ambiente;40;Protección contra la contaminación acústica; lumínica y atmosférica en las zonas urbanas;1721;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;15000;2022
+347;Urbanismo; obras; servicios y medio ambiente;40;Protección contra la contaminación acústica; lumínica y atmosférica en las zonas urbanas;1721;Gastos corrientes en bienes y servicios;22622;Gastos diversos Proteccion medio ambiente;20000;2022
+348;Urbanismo; obras; servicios y medio ambiente;40;Protección contra la contaminación acústica; lumínica y atmosférica en las zonas urbanas;1721;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;15000;2022
+349;Urbanismo; obras; servicios y medio ambiente;40;Protección contra la contaminación acústica; lumínica y atmosférica en las zonas urbanas;1721;Transferencias corrientes;489;Medio ambiente Otras transferencias;12000;2022
+350;Urbanismo; obras; servicios y medio ambiente;40;Protección contra la contaminación acústica; lumínica y atmosférica en las zonas urbanas;1722;Gastos corrientes en bienes y servicios;210;Mantenimiento de playas. Infraestructuras y bienes naturales;65000;2022
+351;Urbanismo; obras; servicios y medio ambiente;40;Caminos vecinales;454;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;220000;2022
+352;Urbanismo; obras; servicios y medio ambiente;40;Caminos vecinales;454;Gastos corrientes en bienes y servicios;22107;Placas y numeración vias publicas;10000;2022
+353;Urbanismo; obras; servicios y medio ambiente;40;Otras Infraestructuras;4591;Gastos corrientes en bienes y servicios;22667;Gastos diversos Fomento de la Actividad Economica;5000;2022
+354;Urbanismo; obras; servicios y medio ambiente;40;Otras Infraestructuras;4591;Inversiones reales;61929;Obras remodelacion Camino Viejo del Puerto y adyacentes Fase I;768500;2022
+355;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12000;Sueldos del Grupo A1;34683.04;2022
+356;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12001;Sueldos del Grupo A2;104963.88;2022
+357;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12003;Sueldos del Grupo C1;45034.64;2022
+358;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12004;Sueldos del Grupo C2;46851;2022
+359;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12006;Trienios;40507.3;2022
+360;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12100;Complemento de destino;127278.09;2022
+361;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;12101;Complemento específico;237761.6;2022
+362;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;131;Laboral temporal;1939735.08;2022
+363;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;150;Productividad;106868.2;2022
+364;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;151;Gratificaciones;2000;2022
+365;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos de personal;16000;Seguridad Social;969339.68;2022
+366;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos corrientes en bienes y servicios;202;Arrendamientos de edificios y otras construcciones;10;2022
+367;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10000;2022
+368;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos corrientes en bienes y servicios;22114;Suministros y servicios diversos situacion pandemia COVID-19;5000;2022
+369;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos corrientes en bienes y servicios;22612;Gastos diversos Desarrollo local;478756;2022
+370;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Gastos corrientes en bienes y servicios;22664;Gastos diversos BIR;100000;2022
+371;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Transferencias corrientes;481;Premios; becas y pensiones de estudios e investigación;112000;2022
+372;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Transferencias corrientes;489;Desarrollo local Otras transferencias;103500;2022
+373;Urbanismo; obras; servicios y medio ambiente;40;Desarrollo local;4592;Inversiones reales;62400;Desarrollo local Automóvil;60000;2022
+374;Seguridad ciudadana y movilidad;50;Seguridad y orden público;132;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;175000;2022
+375;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;12001;Sueldos del Grupo A2;62237.52;2022
+376;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;12003;Sueldos del Grupo C1;1347568.88;2022
+377;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;12006;Trienios;313621.42;2022
+378;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;12100;Complemento de destino;878778.41;2022
+379;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;12101;Complemento específico;1690368.4;2022
+380;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;150;Productividad;944135.28;2022
+381;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;151;Gratificaciones;984806.52;2022
+382;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos de personal;16000;Seguridad Social;1701821.17;2022
+383;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;16000;2022
+384;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;108000;2022
+385;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;130000;2022
+386;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;214;Elementos de transporte;35000;2022
+387;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;2000;2022
+388;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;200;2022
+389;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;10;2022
+390;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22104;Vestuario;35000;2022
+391;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22109;Suministros;24000;2022
+392;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22650;Gastos diversos Policia Local;25000;2022
+393;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;75000;2022
+394;Seguridad ciudadana y movilidad;50;Ordenación del tráfico y del estacionamiento;133;Gastos corrientes en bienes y servicios;22710;Trabajos realizados por otras empresas y profesionales;217000;2022
+395;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;12003;Sueldos del Grupo C1;22517.32;2022
+396;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;12006;Trienios;4978.68;2022
+397;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;12100;Complemento de destino;14104.2;2022
+398;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;12101;Complemento específico;28457.49;2022
+399;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;131;Laboral temporal;48152.16;2022
+400;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;150;Productividad;25375.71;2022
+401;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos de personal;16000;Seguridad Social;39406.7;2022
+402;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;15000;2022
+403;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos corrientes en bienes y servicios;22109;Suministros;10000;2022
+404;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos corrientes en bienes y servicios;22114;Suministros y servicios diversos situacion pandemia COVID-19;10000;2022
+405;Seguridad ciudadana y movilidad;50;Protección civil;135;Gastos corrientes en bienes y servicios;22653;Gastos diversos Protección Civil;30000;2022
+406;Seguridad ciudadana y movilidad;50;Protección civil;135;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;550000;2022
+407;Seguridad ciudadana y movilidad;50;Servicio de prevención y extinción de incendios;136;Transferencias corrientes;467;A Consorcios;1470000;2022
+408;Seguridad ciudadana y movilidad;50;Transporte colectivo urbano de viajeros;4411;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;25000;2022
+409;Seguridad ciudadana y movilidad;50;Transporte colectivo urbano de viajeros;4411;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;9000;2022
+410;Seguridad ciudadana y movilidad;50;Transporte colectivo urbano de viajeros;4411;Gastos corrientes en bienes y servicios;22620;Gastos diversos Transporte;10000;2022
+411;Seguridad ciudadana y movilidad;50;Transporte colectivo urbano de viajeros;4411;Transferencias corrientes;449;Otras subvenciones a entes públicos y sociedades mercantiles de la Entidad Local;311354.51;2022
+412;Seguridad ciudadana y movilidad;50;Transporte colectivo urbano de viajeros;4411;Transferencias corrientes;489;Transportes Otras transferencias;15000;2022
+413;Seguridad ciudadana y movilidad;50;Transporte colectivo urbano de viajeros;4411;Inversiones reales;61901;Obras infraestructuras transporte y movilidad;25000;2022
+414;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12001;Sueldos del Grupo A2;29989.68;2022
+415;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12003;Sueldos del Grupo C1;11258.52;2022
+416;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12004;Sueldos del Grupo C2;84331.8;2022
+417;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12005;Sueldos del Grupo E;301602.14;2022
+418;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12006;Trienios;64946.5;2022
+419;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12100;Complemento de destino;207808.16;2022
+420;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;12101;Complemento específico;402153.36;2022
+421;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;131;Laboral temporal;199976.14;2022
+422;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;150;Productividad;174511.68;2022
+423;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;151;Gratificaciones;45000;2022
+424;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos de personal;16000;Seguridad Social;442973.29;2022
+425;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;100000;2022
+426;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos corrientes en bienes y servicios;22617;Gastos diversos Educación;30000;2022
+427;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Gastos corrientes en bienes y servicios;22700;Limpieza y Aseo;2798917.53;2022
+428;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Transferencias corrientes;481;Premios; becas y pensiones de estudios e investigación;10;2022
+429;Cultura; deportes; educación; y participación ciudadana;60;Funcionamiento de centros docentes de enseñanza preescolar y primaria y educación especial;323;Transferencias corrientes;489;Educacion Otras transferencias;450000;2022
+430;Cultura; deportes; educación; y participación ciudadana;60;Servicios complementarios de educación;326;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;10;2022
+431;Cultura; deportes; educación; y participación ciudadana;60;Servicios complementarios de educación;326;Gastos corrientes en bienes y servicios;22615;Gastos diversos C. Universidad;5000;2022
+432;Cultura; deportes; educación; y participación ciudadana;60;Servicios complementarios de educación;326;Transferencias corrientes;42390;Otras subvenciones a sociedades mercantiles estatales; entidades públicas empresariales y otros organismos públicos;7810;2022
+433;Cultura; deportes; educación; y participación ciudadana;60;Servicios complementarios de educación;326;Transferencias corrientes;45390;Otras subvenciones a sociedades mercantiles; entidades públicas empresariales y otros organismos públicos dependientes de las Comunidades Autónomas;4000;2022
+434;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;12003;Sueldos del Grupo C1;93655.91;2022
+435;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;12006;Trienios;20132.9;2022
+436;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;12100;Complemento de destino;54733.05;2022
+437;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;12101;Complemento específico;85824.3;2022
+438;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;150;Productividad;31853.96;2022
+439;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;151;Gratificaciones;5000;2022
+440;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos de personal;16000;Seguridad Social;78705.03;2022
+441;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos corrientes en bienes y servicios;22001;Prensa; revistas; libros y otras publicaciones;15000;2022
+442;Cultura; deportes; educación; y participación ciudadana;60;Bibliotecas públicas;3321;Gastos corrientes en bienes y servicios;22625;Gastos diversos Bibliotecas;70000;2022
+443;Cultura; deportes; educación; y participación ciudadana;60;Archivos;3322;Gastos corrientes en bienes y servicios;22639;Gastos diversos Archivo municipal;5000;2022
+444;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;12000;Sueldos del Grupo A1;17341.52;2022
+445;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;12004;Sueldos del Grupo C2;9370.2;2022
+446;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;12006;Trienios;10845.93;2022
+447;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;12100;Complemento de destino;15288.42;2022
+448;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;12101;Complemento específico;26618.62;2022
+449;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;150;Productividad;18619.47;2022
+450;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos de personal;16000;Seguridad Social;27463.56;2022
+451;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos corrientes en bienes y servicios;22500;Tributos estatales;5000;2022
+452;Cultura; deportes; educación; y participación ciudadana;60;Equipamientos culturales y museos;3331;Gastos corrientes en bienes y servicios;22643;Gastos diversos Artes escénicas;70000;2022
+453;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;12000;Sueldos del Grupo A1;17341.52;2022
+454;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;12003;Sueldos del Grupo C1;11258.66;2022
+455;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;12006;Trienios;13416.77;2022
+456;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;12100;Complemento de destino;17087.14;2022
+457;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;12101;Complemento específico;28699.58;2022
+458;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;150;Productividad;9790.53;2022
+459;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;151;Gratificaciones;200;2022
+460;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos de personal;16000;Seguridad Social;29131.86;2022
+461;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales;10;2022
+462;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Gastos corrientes en bienes y servicios;22640;Gastos diversos Museos y artes plasticas;5000;2022
+463;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Transferencias corrientes;481;Premios; becas y pensiones de estudios e investigación;10;2022
+464;Cultura; deportes; educación; y participación ciudadana;60;Auditorio y museos;3332;Inversiones reales;62207;Museo de la mineria en Almendricos;35000;2022
+465;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;12001;Sueldos del Grupo A2;14994.84;2022
+466;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;12003;Sueldos del Grupo C1;33775.98;2022
+467;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;12004;Sueldos del Grupo C2;9370.2;2022
+468;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;12006;Trienios;19632.51;2022
+469;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;12100;Complemento de destino;34508.88;2022
+470;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;12101;Complemento específico;57234.94;2022
+471;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;150;Productividad;43686.33;2022
+472;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;151;Gratificaciones;5000;2022
+473;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos de personal;16000;Seguridad Social;59697.03;2022
+474;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;250000;2022
+475;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;16000;2022
+476;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22109;Suministros;5000;2022
+477;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;223;Transportes;5000;2022
+478;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;20000;2022
+479;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22606;Reuniones; conferencias y cursos;9000;2022
+480;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22634;Gastos diversos Programacion verano;40000;2022
+481;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22641;Gastos diversos Promoción cultural;85000;2022
+482;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22642;Gastos diversos Escuelas de musica;5000;2022
+483;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;285000;2022
+484;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Transferencias corrientes;489;Cultura Otras transferencias;351000;2022
+485;Cultura; deportes; educación; y participación ciudadana;60;Promoción cultural;334;Inversiones reales;62300;Promoción cultural. Maquinaria;40000;2022
+486;Cultura; deportes; educación; y participación ciudadana;60;Patrimonio histórico;336;Gastos corrientes en bienes y servicios;22660;Gastos diversos C. Casco Historico;5000;2022
+487;Cultura; deportes; educación; y participación ciudadana;60;Patrimonio histórico;336;Inversiones reales;61914;Protección y gestión del Patrimonio Histórico-Artístico. Obras convocatoria 1;5% cultural;150000;2022
+488;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;12003;Sueldos del Grupo C1;11261.63;2022
+489;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;12004;Sueldos del Grupo C2;9370.2;2022
+490;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;12006;Trienios;6214.74;2022
+491;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;12100;Complemento de destino;10943.38;2022
+492;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;12101;Complemento específico;19593.98;2022
+493;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;150;Productividad;23604.13;2022
+494;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;151;Gratificaciones;5000;2022
+495;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos de personal;16000;Seguridad Social;23426.89;2022
+496;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;230000;2022
+497;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;205;Arrendamientos de mobiliario y enseres;10000;2022
+498;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;5000;2022
+499;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22109;Suministros;5000;2022
+500;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22500;Tributos estatales;25000;2022
+501;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;15000;2022
+502;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22644;Gastos diversos Fiestas populares y festejos;332000;2022
+503;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22645;Gastos diversos Feria;370000;2022
+504;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;30000;2022
+505;Cultura; deportes; educación; y participación ciudadana;60;Festejos;3381;Transferencias corrientes;489;Festejos Otras transferencias;10;2022
+506;Cultura; deportes; educación; y participación ciudadana;60;Semana Santa;3382;Gastos corrientes en bienes y servicios;22624;Gastos diversos Semana Santa;100000;2022
+507;Cultura; deportes; educación; y participación ciudadana;60;Semana Santa;3382;Transferencias corrientes;489;Semana Santa Otras transferencias;684500;2022
+508;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12000;Sueldos del Grupo A1;34683.04;2022
+509;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12001;Sueldos del Grupo A2;59979.36;2022
+510;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12003;Sueldos del Grupo C1;78810.62;2022
+511;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12004;Sueldos del Grupo C2;65407.72;2022
+512;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12005;Sueldos del Grupo E;42881.3;2022
+513;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12006;Trienios;60187.96;2022
+514;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12100;Complemento de destino;156010.4;2022
+515;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;12101;Complemento específico;283032.54;2022
+516;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;150;Productividad;136379.19;2022
+517;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;151;Gratificaciones;21000;2022
+518;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos de personal;16000;Seguridad Social;257580.11;2022
+519;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;203;Arrendamientos de maquinaria; instalaciones y utillaje;26300;2022
+520;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;204;Arrendamientos de material de transporte;12000;2022
+521;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22000;Ordinario no inventariable;4000;2022
+522;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22103;Combustibles y carburantes;320000;2022
+523;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22104;Vestuario;2500;2022
+524;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22109;Suministros;95500;2022
+525;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22110;Productos de limpieza y aseo;5200;2022
+526;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22114;Suministros y servicios diversos situacion pandemia COVID-19;2000;2022
+527;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;223;Transportes;1000;2022
+528;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;18000;2022
+529;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22647;Gastos diversos Area de deportes;148000;2022
+530;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;2370600;2022
+531;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Transferencias corrientes;480;A Familias e Instituciones sin fines de lucro;227000;2022
+532;Cultura; deportes; educación; y participación ciudadana;60;Promoción y fomento del deporte;341;Transferencias corrientes;481;Premios; becas y pensiones de estudios e investigación;11500;2022
+533;Cultura; deportes; educación; y participación ciudadana;60;Instalaciones deportivas;342;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones;80600;2022
+534;Cultura; deportes; educación; y participación ciudadana;60;Instalaciones deportivas;342;Gastos corrientes en bienes y servicios;213;Maquinaria; instalaciones técnicas y utillaje;1500;2022
+535;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Gastos corrientes en bienes y servicios;210;Infraestructuras y bienes naturales Juntas de Barrio o Pedania;50000;2022
+536;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Gastos corrientes en bienes y servicios;212;Edificios y otras construcciones Juntas de Barrio o Pedania;100000;2022
+537;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Gastos corrientes en bienes y servicios;22631;Gastos diversos Participación ciudadana;10000;2022
+538;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Gastos corrientes en bienes y servicios;22655;Experiencia piloto inicio Juntas de Barrio o Pedanía;100000;2022
+539;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Gastos corrientes en bienes y servicios;22656;Gastos diversos Juntas de Barrio o Pedanía;65000;2022
+540;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Transferencias corrientes;480;Participacion ciudadana. A Familias e Instituciones sin fines de lucro;12000;2022
+541;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Transferencias corrientes;489;Otras transferencias Juntas de Barrio o Pedania;55000;2022
+542;Cultura; deportes; educación; y participación ciudadana;60;Participación ciudadana;924;Inversiones reales;62501;Mobiliario y equipos de oficina locales Juntas de Barrio o Pedania;40000;2022
+543;Promoción económica; turismo y nuevas tecnologías;70;Otras actuaciones en agricultura; ganadería y pesca;419;Gastos corrientes en bienes y servicios;22623;Gastos diversos Feria del caballo;115000;2022
+544;Promoción económica; turismo y nuevas tecnologías;70;Otras actuaciones en agricultura; ganadería y pesca;419;Gastos corrientes en bienes y servicios;22635;Gastos diversos en agricultura y ganadería;15000;2022
+545;Promoción económica; turismo y nuevas tecnologías;70;Otras actuaciones en agricultura; ganadería y pesca;419;Transferencias corrientes;410;A Organismos Autónomos de la Entidad Local;80000;2022
+546;Promoción económica; turismo y nuevas tecnologías;70;Otras actuaciones en agricultura; ganadería y pesca;419;Transferencias corrientes;489;Agricultura; ganadera y pesca Otras transferencias;20500;2022
+547;Promoción económica; turismo y nuevas tecnologías;70;Apoyo a la industria local;4221;Transferencias corrientes;489;Industria Otras transferencias;92000;2022
+548;Promoción económica; turismo y nuevas tecnologías;70;Apoyo a la industria local;4221;Transferencias de capital;770;A empresas privadas;10;2022
+549;Promoción económica; turismo y nuevas tecnologías;70;Polígonos Industriales;4222;Gastos corrientes en bienes y servicios;22628;Gastos diversos Industria;18000;2022
+550;Promoción económica; turismo y nuevas tecnologías;70;Ferias;4311;Gastos corrientes en bienes y servicios;22621;Gastos diversos Comercio y Artesania;126000;2022
+551;Promoción económica; turismo y nuevas tecnologías;70;Ferias;4311;Transferencias corrientes;489;Comercio y Artesania Otras transferencias;88000;2022
+552;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;12003;Sueldos del Grupo C1;11258.66;2022
+553;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;12004;Sueldos del Grupo C2;28110.6;2022
+554;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;12006;Trienios;8646.45;2022
+555;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;12100;Complemento de destino;23685.48;2022
+556;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;12101;Complemento específico;44961.14;2022
+557;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;150;Productividad;19691.33;2022
+558;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;151;Gratificaciones;3000;2022
+559;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos de personal;16000;Seguridad Social;39338.03;2022
+560;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;100000;2022
+561;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos corrientes en bienes y servicios;22658;Gastos diversos Concejalia de Turismo;166000;2022
+562;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Gastos corrientes en bienes y servicios;22665;Gastos y programacion cultura judia;12000;2022
+563;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Transferencias corrientes;467;A Consorcios;436665;2022
+564;Promoción económica; turismo y nuevas tecnologías;70;Información y promoción turística;432;Transferencias de capital;767;A Consorcios;10;2022
+565;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;12003;Sueldos del Grupo C1;69380.96;2022
+566;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;12006;Trienios;13982.52;2022
+567;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;12100;Complemento de destino;40638.92;2022
+568;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;12101;Complemento específico;79845.36;2022
+569;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;150;Productividad;49539.1;2022
+570;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;151;Gratificaciones;1000;2022
+571;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos de personal;16000;Seguridad Social;70457.79;2022
+572;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos corrientes en bienes y servicios;206;Arrendamientos de equipos para procesos de información;10;2022
+573;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos corrientes en bienes y servicios;22002;Material; informático no inventariable;40000;2022
+574;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos corrientes en bienes y servicios;22602;Publicidad y propaganda;1000;2022
+575;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos corrientes en bienes y servicios;22618;Gastos diversos Sociedad de la Información;60000;2022
+576;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Gastos corrientes en bienes y servicios;22706;Estudios y trabajos técnicos;170000;2022
+577;Promoción económica; turismo y nuevas tecnologías;70;Sociedad de la información;491;Inversiones reales;62601;Informática y digitalización;50000;2022
+578;Fondos de recuperación Next Generation EU;80;Urbanismo: planeamiento; gestión; ejecución y disciplina urbanística;151;Inversiones reales;60904;Cofinanciacion actuaciones financiadas Fondo de Recuperacion NGEU;350000;2022
+579;Fondos de recuperación Next Generation EU;80;Información y promoción turística;432;Inversiones reales;61937;Plan sostenibilidad turistica en destino 2022-2024;150000;2022
