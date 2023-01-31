@@ -1,3 +1,5 @@
+# este programa utiliza el fichero de datos13.txt
+
 BEGIN {
 print "EJEMPLOS DE SALIDA ESTANDAR CON FORMATO"
 print "---------------------------------------------"
